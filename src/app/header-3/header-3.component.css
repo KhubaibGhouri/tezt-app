@@ -1,0 +1,39 @@
+body {
+    font-size: 15px;
+}
+.myNav {
+    min-height: 70px;
+    margin: 0;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    background: #fff;
+}
+.myNav .container-fluid {
+    max-width: 1525px;
+}
+
+.navbar-btn {
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    height: 70px;
+}
+.btn-custom {
+    width: 140px;
+
+    font-family: "Montserrat", sans-serif;
+    font-size: .88em;
+
+    color: #fff;
+    background: #77d2d0;
+}
+.navbar-header-2{
+    width: 100%;
+    float: left;
+}
+.box-logo{
+    width: 95%;
+    float: right;
+    text-align: center;
+    padding-top: 10px;
+}
